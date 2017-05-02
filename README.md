@@ -14,7 +14,4 @@ All work is done with Python language and packages.
 
 
 #### Authors: 
-Nurvirta Monarizqa
-Tashay Green 
-Zhaohong Niu
-Sharon Jiaqian Liu
+Nurvirta Monarizqa, Tashay Green, Zhaohong Niu, Sharon Jiaqian Liu
